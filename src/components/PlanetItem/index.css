@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.planet-image {
+  width: 50%;
+}
+.each-planet {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.description {
+  color: white;
+}
+.name-heading {
+  color: white;
+}
